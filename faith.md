@@ -9,9 +9,9 @@ This paper explores the conceptual formula *Faith = Word × Trust* by integratin
 
 Faith has long been a central theme in theological discourse, particularly within the Judeo-Christian tradition. Biblical passages such as Romans 10:17—“So then faith comes by hearing, and hearing by the word of God”—underscore the foundational role of divine revelation in the formation of faith. This paper introduces a conceptual formula: 
 
-\[
+```math
 \text{Faith} = \text{Word} \times \text{Trust}
-\]
+```
 
 where:
 - **Word** represents the Word of God as revealed in the Bible.
